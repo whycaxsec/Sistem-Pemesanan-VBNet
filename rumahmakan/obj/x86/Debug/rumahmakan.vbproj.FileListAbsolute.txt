@@ -1,0 +1,58 @@
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\bin\Debug\rumahmakan.exe
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\bin\Debug\rumahmakan.pdb
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\bin\Debug\rumahmakan.xml
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form1.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Resources.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.vbproj.GenerateResource.Cache
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.exe
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.xml
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.pdb
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form2.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form3.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form4.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form5.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\bin\Debug\rumahmakan.exe.config
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.vbprojResolveAssemblyReference.cache
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form6.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form7.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form8.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form11.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form9.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form12.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.report_transaksi.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.form_report.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form13.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form14.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form15.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form16.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form17.resources
+D:\KULIAH FAHMI\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form18.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\bin\Debug\rumahmakan.exe.config
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.exe
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.xml
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.pdb
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\bin\Debug\rumahmakan.exe
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\bin\Debug\rumahmakan.pdb
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\bin\Debug\rumahmakan.xml
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.vbprojResolveAssemblyReference.cache
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form1.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form11.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form12.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form13.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form14.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form15.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form16.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form17.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form18.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form2.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form3.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form4.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form5.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form6.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form7.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form8.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Form9.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.form_report.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.Resources.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.report_transaksi.resources
+D:\KULIAH FAHMI\Semester 3\prujek uas\rumahmakan\rumahmakan\obj\x86\Debug\rumahmakan.vbproj.GenerateResource.Cache
